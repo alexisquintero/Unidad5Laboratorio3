@@ -1,0 +1,4 @@
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\Negocio\bin\Debug\Negocio.dll
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\Negocio\bin\Debug\Negocio.pdb
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\Negocio\obj\Debug\Negocio.dll
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\Negocio\obj\Debug\Negocio.pdb

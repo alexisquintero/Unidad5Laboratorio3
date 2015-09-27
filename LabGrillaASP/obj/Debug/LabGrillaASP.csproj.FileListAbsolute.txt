@@ -1,0 +1,8 @@
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\LabGrillaASP\obj\Debug\LabGrillaASP.csprojResolveAssemblyReference.cache
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\LabGrillaASP\bin\LabGrillaASP.dll.config
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\LabGrillaASP\bin\LabGrillaASP.dll
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\LabGrillaASP\bin\LabGrillaASP.pdb
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\LabGrillaASP\bin\Negocio.dll
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\LabGrillaASP\bin\Negocio.pdb
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\LabGrillaASP\obj\Debug\LabGrillaASP.dll
+C:\Proyectos\Unidades\Unidad06\LabGrillaASP\LabGrillaASP\obj\Debug\LabGrillaASP.pdb
